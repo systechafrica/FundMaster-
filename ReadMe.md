@@ -30,5 +30,9 @@ Linux
 
 Windows
 ```bash 
+  $env:NODE_OPTIONS = "--openssl-legacy-provider
+```
+OR
+```bash 
   set NODE_OPTIONS=--openssl-legacy-provider
 ```
