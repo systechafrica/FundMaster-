@@ -1,5 +1,5 @@
 ---
-title: How to Videos
+title: FundMaster User Interface Navigation
 ---
 
 ### FundMaster UI Navigation
@@ -35,13 +35,13 @@ export default {
           id: 1,
           thumbnail: "https://img.youtube.com/vi/StIAaFSmr7I/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/StIAaFSmr7I",
-          description: "How to log in to FundMaster"
+          description: "How to log in to FundMaster Xe"
         },
         {
           id: 2,
           thumbnail: "https://img.youtube.com/vi/s82gFzfPMbA/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/s82gFzfPMbA",
-          description: "How to navigate Fundmaster Landing Page interface."
+          description: "How to navigate FundMaster Xe Landing Page interface."
         },
         {
           id: 3,
@@ -53,13 +53,13 @@ export default {
           id: 4,
           thumbnail: "https://img.youtube.com/vi/mc-1DVWJM_4/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/mc-1DVWJM_4",
-          description: "How to create User Profiles in FundMaster."
+          description: "How to create User Profiles in FundMaster Xe."
         },
         {
           id: 5,
           thumbnail: "https://img.youtube.com/vi/WUA_HwAqufM/hqdefault.jpg",
           videoUrl: "https://www.youtube.com/embed/WUA_HwAqufM",
-          description: "How to Assign Permissions to user profiles in FundMaster."
+          description: "How to Assign Permissions to user profiles in FundMaster Xe."
         },
         // Add more videos here...
         
