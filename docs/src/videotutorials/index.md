@@ -1,8 +1,8 @@
 ---
-title: FundMaster User Interface Navigation
+title: FundMaster User Interface (UI)
 ---
 
-### FundMaster UI Navigation
+### How to Navigate FundMaster UI
 
 This category of videos shows how to navigate various user interfaces (UI) in FundMaster Xe:
 

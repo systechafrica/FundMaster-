@@ -4,7 +4,7 @@ title: Scheme Setup Processes
 
 ### Scheme Setup Processes
 
-This categories of videos shows how various scheme setup configurations are done in FundMaster:
+The videos unders this category demonstrate how various processes related to scheme setup such as creating a new scheme are done in FundMaster Xe:
 
 <div class="videos-grid">
   <div v-for="video in videos" :key="video.id" class="video-item">
@@ -33,21 +33,21 @@ export default {
       videos: [
              {
           id: 1,
-          thumbnail: "https://img.youtube.com/vi/StIAaFSmr7I/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/StIAaFSmr7I",
-          description: "How to log in to FundMaster"
+          thumbnail: "https://img.youtube.com/vi/U7Fpnq_rf8k/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/U7Fpnq_rf8k",
+          description: "How to create a new scheme in FundMaster"
         },
         {
           id: 2,
-          thumbnail: "https://img.youtube.com/vi/s82gFzfPMbA/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/s82gFzfPMbA",
-          description: "How to navigate FundMaster Landing Page interface."
+          thumbnail:
+          videoUrl: 
+          description:
         },
         {
           id: 3,
-          thumbnail: "https://img.youtube.com/vi/L2UxRTHFyak/hqdefault.jpg",
-          videoUrl: "https://www.youtube.com/embed/L2UxRTHFyak",
-          description: "How to nagivate FundMaster Xe Admin Panel interface."
+          thumbnail: 
+          videoUrl: 
+          description: 
         },
         // Add more videos here...
       ],
