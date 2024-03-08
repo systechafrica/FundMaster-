@@ -211,7 +211,6 @@ function getSidebar() {
                 'Videos Tutorials',
             [
                 '',
-                'employerEnrollment',
                 'membersModule',
                 'schemeSetup',
             ]),
