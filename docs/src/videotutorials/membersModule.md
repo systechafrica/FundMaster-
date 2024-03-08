@@ -55,6 +55,25 @@ export default {
           videoUrl: "https://www.youtube.com/embed/McTUOqDArQc",
           description: "Part 2: Batch members authorization process"
         },
+        {
+          id: 5,
+          thumbnail: "https://img.youtube.com/vi/h_2yntCYT2s/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/h_2yntCYT2s",
+          description: "Adding member's bank details"
+
+        },
+        {
+          id: 6,
+          thumbnail: "https://img.youtube.com/vi/CuoC2He3v5I/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/CuoC2He3v5I",
+          description: "Part 1: Single beneficiary upload process"
+        },
+                {
+          id: 7,
+          thumbnail: "https://img.youtube.com/vi/koh5eQz_JMI/hqdefault.jpg",
+          videoUrl: "https://www.youtube.com/embed/koh5eQz_JMI",
+          description: "Part 2: Single beneficiary approval process"
+        },
      
         // Add more videos here...
       ],
