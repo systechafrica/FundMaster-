@@ -37,18 +37,6 @@ export default {
           videoUrl: "https://www.youtube.com/embed/U7Fpnq_rf8k",
           description: "How to create a new scheme in FundMaster"
         },
-        {
-          id: 2,
-          thumbnail:
-          videoUrl: 
-          description:
-        },
-        {
-          id: 3,
-          thumbnail: 
-          videoUrl: 
-          description: 
-        },
         // Add more videos here...
       ],
       currentVideo: null
